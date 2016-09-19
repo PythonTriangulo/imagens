@@ -486,11 +486,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="462.4662"
-     inkscape:cy="280.54316"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="118.20987"
+     inkscape:cy="343.9777"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="729"
@@ -511,9 +511,23 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="branco">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect4435"
+       width="740.2995"
+       height="1049.797"
+       x="2.1813021"
+       y="0.93361336"
+       ry="1.0641315" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="patrocinio"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g5646"
        transform="translate(2.243062,0)">
@@ -601,13 +615,12 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="conferencia"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        inkscape:connector-curvature="0"
        id="path14"
        style="fill:#192d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
-       d="m -0.69841003,794.04208 744.91352003,0 0,-792.2846922 -744.91352003,0 0,792.2846922 z" />
+       d="m -0.69841003,794.04208 750.62781003,0 0,-792.2846922 -750.62781003,0 0,792.2846922 z" />
     <path
        inkscape:connector-curvature="0"
        id="path72"
@@ -640,7 +653,7 @@
     <g
        style="display:inline"
        id="g88"
-       transform="matrix(0.09311419,0,0,-0.09903559,-38.875227,794.04208)">
+       transform="matrix(0.09311419,0,0,-0.09903559,-30.303798,795.47065)">
       <g
          clip-path="url(#clipPath92-7)"
          id="g90">
@@ -659,7 +672,7 @@
     <g
        style="display:inline"
        id="g100"
-       transform="matrix(0.09311419,0,0,-0.09903559,-38.875227,794.04208)">
+       transform="matrix(0.09453917,0,0,-0.09903559,-45.145007,794.04208)">
       <g
          clip-path="url(#clipPath104-3)"
          id="g102">
@@ -1522,7 +1535,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="palanque"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g3632"
        transform="matrix(0.89552212,0,0,0.89552212,39.12942,80.018487)">
@@ -1597,7 +1611,8 @@
   <g
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-size:33.90716171px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
