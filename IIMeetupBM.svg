@@ -15,7 +15,10 @@
    id="svg3536"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="IIMeetupBM.svg">
+   sodipodi:docname="IIMeetupBM.svg"
+   inkscape:export-filename="/home/devmessias/Trabalho/meusProjetos/pythonComunity/imagens/IIMeetupBM.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs3538">
     <clipPath
@@ -505,7 +508,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
