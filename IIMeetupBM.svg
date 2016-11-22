@@ -491,12 +491,12 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
      inkscape:cx="779.79458"
-     inkscape:cy="564.72642"
+     inkscape:cy="645.53862"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="834"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
@@ -508,7 +508,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1630,7 +1630,7 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-size:47.07017136000000335px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#366d9a;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:47.07017136px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#366d9a;fill-opacity:1;stroke:none;font-family:Sans"
        x="369.94867"
        y="320.1539"
        id="text3315"
@@ -1642,11 +1642,11 @@
          id="tspan3317"
          x="384.98035"
          y="320.1539"
-         style="font-size:49.97546387000000578px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#366d9a;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold;fill-opacity:1">II MEETUP PYTHON </tspan><tspan
+         style="font-size:49.97546387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#366d9a;fill-opacity:1;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold">III MEETUP PYTHON </tspan><tspan
          sodipodi:role="line"
          x="369.94867"
          y="382.62323"
-         style="font-size:49.97546387000000578px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#366d9a;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold;fill-opacity:1"
+         style="font-size:49.97546387px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#366d9a;fill-opacity:1;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold"
          id="tspan3345">TRIÂNGULO</tspan></text>
     <image
        y="114.24609"
@@ -1668,21 +1668,21 @@
          y="834.4129"
          style="font-size:24px;font-weight:normal;-inkscape-font-specification:Sans"><tspan
    style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="tspan3658">Data:</tspan> 24 de Setembro</tspan><tspan
+   id="tspan3658">Data:</tspan> 26 de Novembro</tspan><tspan
          sodipodi:role="line"
          x="32.324883"
          y="864.4129"
          id="tspan3793"
          style="font-size:24px;font-weight:normal;-inkscape-font-specification:Sans"><tspan
    style="font-style:normal;font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="tspan3652">Horário:</tspan> 9h às 12h</tspan><tspan
+   id="tspan3652">Horário:</tspan> 14h às 18h</tspan><tspan
          sodipodi:role="line"
          x="32.324883"
          y="894.4129"
          id="tspan3795"
          style="font-size:24px;font-weight:normal;-inkscape-font-specification:Sans"><tspan
    style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="tspan3660">Local:</tspan> Anfiteatro 1E- UFU Santa Mônica</tspan><tspan
+   id="tspan3660">Local:</tspan> Anfiteatro G bloco 5O - UFU Santa Mônica</tspan><tspan
          sodipodi:role="line"
          x="32.324883"
          y="924.4129"
@@ -1701,6 +1701,6 @@
          id="tspan3650"
          x="371.81137"
          y="433.76147"
-         style="font-size:24.77078247px;text-align:center;text-anchor:middle">24 de Setembro, Sábado</tspan></text>
+         style="font-size:24.77078247px;text-align:center;text-anchor:middle">26 de Novembro, Sábado</tspan></text>
   </g>
 </svg>
